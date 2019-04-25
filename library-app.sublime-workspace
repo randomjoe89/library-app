@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"label",
+				"label\t<label>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidristovski/Code/Ember/library-app",
+		"/Users/davidristovski/Code/Ember/library-app/app"
+	],
+	"file_history":
+	[
+		"/Users/davidristovski/Code/styles.css",
+		"/Users/davidristovski/Code/bootstrap.css",
+		"/Users/davidristovski/Code/page.html",
+		"/Users/davidristovski/Code/images.html",
+		"/Users/davidristovski/Code/tictactoe.html",
+		"/Users/davidristovski/Code/boxModel.html",
+		"/Users/davidristovski/Code/fonts.html",
+		"/Users/davidristovski/Code/style.css",
+		"/Users/davidristovski/Downloads/07_Selectors/demo.html",
+		"/Users/davidristovski/Downloads/07_Selectors/selectors.css",
+		"/Users/davidristovski/Code/app.css",
+		"/Users/davidristovski/Code/aboutMe.html",
+		"/Users/davidristovski/Code/test.html",
+		"/Users/davidristovski/Documents/test.html",
+		"/Users/davidristovski/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/test.html",
+		"/Users/davidristovski/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davidristovski/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".border",
+			"border-",
+			"border",
+			"draw_white_space",
+			"draw_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "library-app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
