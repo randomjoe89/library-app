@@ -1,0 +1,19 @@
+<h1>{{this.headerTitle}}</h1>
+
+<div class="jumbotron">
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each this.model as |member|}}
+        {{current-member
+          member=member
+        }}
+      {{/each}}
+    </tbody>
+  </table>
+</div>
