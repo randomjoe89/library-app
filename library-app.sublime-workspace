@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"me",
+				"messageIsEmpty"
+			],
+			[
+				"not",
+				"not('emailIsValid"
+			],
+			[
+				"email",
+				"emailAddress"
+			],
+			[
 				"border-",
 				"border-bottom\tproperty"
 			],
@@ -32,12 +44,28 @@
 		"selected_items":
 		[
 			[
-				"package remove",
-				"Package Control: Remove Package"
+				"matei",
+				"Material Theme: Activate theme"
+			],
+			[
+				"eslint",
+				"Build With: ESLint"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
 			],
 			[
 				"materi",
@@ -56,7 +84,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 194.0,
 		"history":
 		[
 		]
@@ -73,10 +101,45 @@
 	"expanded_folders":
 	[
 		"/Users/davidristovski/Code/Ember/library-app",
-		"/Users/davidristovski/Code/Ember/library-app/app"
+		"/Users/davidristovski/Code/Ember/library-app/app",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/libraries",
+		"/Users/davidristovski/Code/Ember/library-app/mirage",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/scenarios",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/serializers"
 	],
 	"file_history":
 	[
+		"/Users/davidristovski/Code/Ember/library-app/app/controllers/members.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/controllers/libraries.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/libraries.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/libraries/index.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/about.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/controllers/contact.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/controllers/about.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/contact.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/application.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/index.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/controllers/index.js",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/config.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/router.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/members.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/factories/invitation.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/components/current-member.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/components/current-member.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/templates/components/member.hbs",
+		"/Users/davidristovski/Code/Ember/library-app/app/routes/members.js",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/serializers/application.js",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/scenarios/default.js",
+		"/Users/davidristovski/Code/Ember/library-app/mirage/models/invitation.js",
+		"/Users/davidristovski/Code/Ember/library-app/config/environment.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/adapters/application.js",
+		"/Users/davidristovski/Code/Ember/library-app/app/models/invitation.js",
+		"/Users/davidristovski/Code/Ember/library-app/package-lock.json",
+		"/Users/davidristovski/Code/Ember/library-app/package.json",
+		"/Users/davidristovski/Code/Ember/library-app/start.txt",
+		"/Users/davidristovski/Code/Ember/library-app/app/styles/app.scss",
+		"/Users/davidristovski/Code/Ember/library-app/app/styles/app.css",
 		"/Users/davidristovski/Code/styles.css",
 		"/Users/davidristovski/Code/bootstrap.css",
 		"/Users/davidristovski/Code/page.html",
@@ -98,11 +161,11 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 158.0,
 		"where_history":
 		[
 		]
@@ -112,6 +175,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mirage",
+			"shim",
+			"fire",
+			"textMessage",
+			"lint",
+			"email",
+			"pb",
+			"p",
 			".border",
 			"border-",
 			"border",
@@ -174,7 +245,15 @@
 	{
 		"height": 0.0
 	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0
 	},
@@ -191,6 +270,106 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"libraries.hbs",
+				"app/templates/libraries.hbs"
+			],
+			[
+				"contact.hbs",
+				"app/templates/contact.hbs"
+			],
+			[
+				"about.hbs",
+				"app/templates/about.hbs"
+			],
+			[
+				"application.hbs",
+				"app/templates/application.hbs"
+			],
+			[
+				"application",
+				"app/templates/application.hbs"
+			],
+			[
+				"index.hbs",
+				"app/templates/index.hbs"
+			],
+			[
+				"router.js",
+				"app/router.js"
+			],
+			[
+				"index.js",
+				"app/controllers/index.js"
+			],
+			[
+				"current-member",
+				"app/components/current-member.js"
+			],
+			[
+				"current-member.hbs",
+				"app/templates/components/current-member.hbs"
+			],
+			[
+				"members.hbs",
+				"app/templates/members.hbs"
+			],
+			[
+				"members",
+				"app/routes/members.js"
+			],
+			[
+				"members.",
+				"app/routes/members.js"
+			],
+			[
+				"application.hb",
+				"app/templates/application.hbs"
+			],
+			[
+				"enviro",
+				"config/environment.js"
+			],
+			[
+				"package-lock.json",
+				"package-lock.json"
+			],
+			[
+				"app/controllers/index.js",
+				"app/controllers/index.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"invitation",
+				"app/models/invitation.js"
+			],
+			[
+				"contact",
+				"app/controllers/contact.js"
+			],
+			[
+				"about",
+				"app/templates/about.hbs"
+			],
+			[
+				"app.scs",
+				"app/styles/app.scss"
+			],
+			[
+				"app.sc",
+				"app/styles/app.scss"
+			],
+			[
+				"app.css",
+				"app/styles/app.css"
+			],
+			[
+				"package.json",
+				"package.json"
+			]
 		],
 		"width": 0.0
 	},
@@ -220,7 +399,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 267.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

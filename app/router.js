@@ -10,6 +10,9 @@ Router.map(function() {
   this.route('about');
   this.route('contact');
   this.route('members');
+  this.route('libraries', function() {
+    this.route('new');
+  });
 });
 
 export default Router;

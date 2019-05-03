@@ -3,9 +3,12 @@ export default function() {
 
     this.namespace = 'api';
 
+    this.get('/invitations');
+
+    this.get('/libraries');
+
     this.post('/invitations');
 
-    this.get('/invitations', (schema, request) => {
-        return schema.invitations.all();
-    });
+    this.post('/libraries');
+
 }
